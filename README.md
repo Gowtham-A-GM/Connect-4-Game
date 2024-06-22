@@ -1,0 +1,2 @@
+# Connect 4 Game
+ Welcome to Connect 4, an immersive and strategic twist on the classic game of Tic Tac Toe, designed for players of all ages. This project showcases a sleek and intuitive interface with dynamic gameplay elements and customizable features using PYTHON and PYGAME Library. Connect 4 delivers endless fun and strategic challenges. Master gravity, choose your mode, and enjoy this advanced take on Tic Tac Toe. Thank you for exploring this project!
